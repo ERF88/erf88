@@ -81,3 +81,5 @@ Desenvolvedor Backend com ampla experiência em **Java** e frameworks como **Spr
 - **Liderança Técnica:** Guiando equipes e promovendo as melhores práticas.
 - **Comunicação:** Clareza na explicação de questões técnicas, facilitando a colaboração.
 - **Proatividade:** Busca constante por melhorias em sistemas e processos.
+
+---
